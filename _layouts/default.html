@@ -19,12 +19,12 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap&effect=anaglyph" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap" rel="stylesheet">
   </head>
   <body>
 
     <header class="page-header" role="banner">
-      <h1 style="font-family: 'Dosis', sans-serif;" class="font-effect-anaglyph">{{site.main.title}}</h1>
+      <h1 style="font-family: 'Dosis', sans-serif;">{{site.main.title}}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
