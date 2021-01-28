@@ -1,10 +1,10 @@
-var stickyNavTop = $('#header').offset().top;
+var stickyNavTop = $('#ul').offset().top;
 
 $(window).scroll(function() {  
     if ($(window).scrollTop() > stickyNavTop) {
-        $('#header').addClass('fixed');
+        $('#ul').addClass('fixed');
     }
     else {
-        $('#header').removeClass('fixed');
+        $('#ul').removeClass('fixed');
     }  
 });
