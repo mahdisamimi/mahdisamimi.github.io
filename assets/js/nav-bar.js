@@ -1,4 +1,4 @@
-var stickyNavTop = $('#ul').offset().top;
+var stickyNavTop = $('#ul').first().offset().top;
 
 $(window).scroll(function() {
     
