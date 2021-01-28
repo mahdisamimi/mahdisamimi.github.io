@@ -21,6 +21,18 @@
     <link rel="stylesheet" href="{{ '/assets/css/header.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Cuprum:wght@700&display=swap" rel="stylesheet">
+    <script>
+        var stickyNavTop = $('#header').offset().top;
+
+        $(window).scroll(function() {  
+            if ($(window).scrollTop() > stickyNavTop) {
+                $('#header').addClass('fixed');
+            }
+            else {
+                $('#header').removeClass('fixed');
+            }  
+        });
+    </script>
   </head>
   <body>
 
@@ -39,7 +51,12 @@
          </div>
       </div>
     </header>
-
+    <ul>
+        <li><a href="#">About Me</a></li>
+        <li><a href="#">CV</a>
+            <ul> HI </ul>
+        </li>
+    </ul>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
