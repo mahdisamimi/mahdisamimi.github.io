@@ -29,3 +29,37 @@ header {
 h2.project-tagline.desc {
     margin: 10px;
 }
+ul {
+    height: 90px;
+    background: linear-gradient(to right bottom, transparent , #9fafc57d);
+    backdrop-filter: blur(6px) brightness(0.95);
+    width: 100%;
+    top: 0px;
+    position: relative;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    display: flex;
+    justify-content: center;
+    height: inherit;
+    position: relative;
+    float: left;
+    padding:0;
+    }
+
+ul a {
+    vertical-align: middle;
+    margin: auto 0 auto 0;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: x-large;
+    line-height: 32px;
+    padding: 15px;
+    font-family: inherit;
+    text-align: center;
+}
+ul.fixed {
+    position:fixed
+}
