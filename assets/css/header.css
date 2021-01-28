@@ -19,7 +19,7 @@ header {
 }
 .box {
   
-  backdrop-filter: blur(5px) brightness(0.95);
+  backdrop-filter: blur(5px) brightness(0.97);
   text-align: center;
   border: 1px solid transparent;
   border-image: linear-gradient(to top, transparent , white);
