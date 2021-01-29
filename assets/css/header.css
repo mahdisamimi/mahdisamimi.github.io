@@ -155,4 +155,6 @@ body::-webkit-scrollbar-thumb {
     box-shadow: none;
     display: block;
     padding-left: 2rem;
+    position: relative;
+    z-index: -1;
 }
