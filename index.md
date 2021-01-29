@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
+
+![Image of Me](https://github.com/mahdisamimi/mahdisamimi.github.io/raw/main/assets/photo_2021-01-29_17-40-42.jpg)
 
 You can use the [editor on GitHub](https://github.com/mahdisamimi/mahdisamimi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,6 +39,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## Welcome to GitHub Pages
+
+![Image of Me](https://github.com/mahdisamimi/mahdisamimi.github.io/raw/main/assets/photo_2021-01-29_17-40-42.jpg)
 
 You can use the [editor on GitHub](https://github.com/mahdisamimi/mahdisamimi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
