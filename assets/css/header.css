@@ -30,13 +30,14 @@ h2.project-tagline.desc {
     margin: 10px;
 }
 ul {
+    box-shadow: 0 0 25px rgb(0 0 0 / 41%);
     height: 50px;
-    background: linear-gradient(to right bottom, transparent , #9fafc57d);
-    backdrop-filter: blur(6px) brightness(0.95);
+    background: #ffffff87;
+    backdrop-filter: blur(4px) brightness(1.05);
     width: 100%;
     top: 0px;
     position: sticky;
-    left: 0;
+    margin: 0;
     margin: 0;
     padding: 0;
 }
