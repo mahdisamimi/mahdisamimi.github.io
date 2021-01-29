@@ -1,4 +1,4 @@
-var headerHeight = document.getElementsByTagName("HEADER")[0].clientHeight;
+var headerHeight = document.getElementsByTagName("HEADER")[0].offsetHeight;
 window.onscroll = function() {myFunction()};
 
         function myFunction() {
