@@ -13,8 +13,8 @@ Currently, I'm BSc. student in IUT, Isfahan, Iran working on AI approaches for m
 If you're also working in this research fields or interested, Here is my contact information:
   <dl>
     <dt>Email:</dt> 
-      <dd><a href="mdi.samimi@gmail.com"> mdi.samimi@gmail.com</a> (primary)</dd>
-      <dd><a href="mahdisamimi@ec.iut.ac.ir"> mahdisamimi@ec.iut.ac.ir</a></dd>
+      <dd><a href="mailto:mdi.samimi@gmail.com"> mdi.samimi@gmail.com</a> (primary)</dd>
+      <dd><a href="mailto:mahdisamimi@ec.iut.ac.ir"> mahdisamimi@ec.iut.ac.ir</a></dd>
     <dt>Github:</dt> 
   <dd><a href="github.com/mahdisamimi"> Git Repo</a></dd>
     <dt>Telegram Id:</dt>
