@@ -1,8 +1,11 @@
+var headerHeight = document.getElementsByTagName("HEADER")[0];
 window.onscroll = function() {myFunction()};
 
         function myFunction() {
           var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
           var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-          var scrolled = (winScroll / height) * 100;
-          document.getElementById("scroll-progress-bar").style.width = scrolled + "%";
+          var scrolled = (winScroll-headerHeight / height-headerHeight) * 100;
+          if (winScroll >= headerHeight){
+                document.getElementById("scroll-progress-bar").style.width = scrolled + "%";
+          }
         }
