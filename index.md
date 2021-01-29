@@ -2,7 +2,18 @@
 
 ![Image of Me](https://github.com/mahdisamimi/mahdisamimi.github.io/raw/main/assets/photo_2021-01-29_17-40-42.jpg)
 
-You can use the [editor on GitHub](https://github.com/mahdisamimi/mahdisamimi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hey! I'm Mehdi, Pylover from Broujerd, Iran. I've made this github page (almost with bare hands :D) to share my information and projects. Currently, I'm BSc. student in IUT, Isfahan, Iran working on AI approaches for mitigating cyber-physical threats.I'm also interested in 
+  - Image Processing
+  - AI Generative Approaches (GAN, VAE)
+  - Natural Language Processing (NLP)
+  - Blockchain
+  - Operating Systems (specially security aspects)
+If you're also working in this research fields or interested, Here is my contact information:
+  **Email:** mdi.samimi@gmail.com (primary)
+             mahdisamimi@ec.iut.ac.ir
+  **Gitgub:** [My Repo](https://github.com/mahdisamimi/)
+  **Telegram Id:** @mehdi_samimi97
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
