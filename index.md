@@ -15,10 +15,8 @@ If you're also working in this research fields or interested, Here is my contact
     <dt>Email:</dt> 
       <dd>mdi.samimi@gmail.com (primary)</dd>
       <dd>mahdisamimi@ec.iut.ac.ir</dd>
-
-    <dt>Gitgub:</dt> 
-      <dd>[My Repo](https://github.com/mahdisamimi/)</dd>
-
+    <dt>Github:</dt> 
+      [My Repo](https://github.com/mahdisamimi/)
     <dt>Telegram Id:</dt>
       <dd>@mehdi_samimi97</dd>
   </dl>
