@@ -136,3 +136,11 @@ body::-webkit-scrollbar-thumb {
     margin-right: auto;
     display: block;
 }
+.main-content li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.main-content ul {
+    box-shadow: none;
+}
