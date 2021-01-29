@@ -11,13 +11,17 @@ Currently, I'm BSc. student in IUT, Isfahan, Iran working on AI approaches for m
   - Operating Systems (specially security aspects)
   
 If you're also working in this research fields or interested, Here is my contact information:
-
-  **Email:** <dl><dt>mdi.samimi@gmail.com (primary)</dt>
-  <dt>mahdisamimi@ec.iut.ac.ir</dt>
-  </dl>
-  **Gitgub:** [My Repo](https://github.com/mahdisamimi/)
+  <dl>
+  <dt>**Email:**</dt> 
+  <dd>mdi.samimi@gmail.com (primary)</dd>
+  <dd>mahdisamimi@ec.iut.ac.ir</dd>
   
-  **Telegram Id:** @mehdi_samimi97
+  <dt>**Gitgub:**</dt> 
+  <dd>[My Repo](https://github.com/mahdisamimi/)</dd>
+  
+  <dt>**Telegram Id:**</dt>
+  <dd>@mehdi_samimi97</dd>
+  </dl>
   
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
