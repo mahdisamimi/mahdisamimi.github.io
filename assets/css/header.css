@@ -122,3 +122,11 @@ body::-webkit-scrollbar-thumb {
     padding-top: 0;
     border-top: 0;
 }
+.main-content [alt="Image of Me"] {
+    max-width: 40%;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgb(0 0 0 / 11%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
