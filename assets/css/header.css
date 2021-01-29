@@ -54,12 +54,11 @@ ul a {
     vertical-align: middle;
     margin: auto 0 auto 0;
     text-decoration: none;
-    font-weight: 700;
     font-size: large;
-    line-height: 32px;
-    padding: 15px;
+    padding: 0 15px;
     font-family: inherit;
     text-align: center;
+    position: relative;
 }
 ul.fixed {
     position:fixed
