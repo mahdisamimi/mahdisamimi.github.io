@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Welcome to GitHub Pages
 
-![Image of Me](https://github.com/mahdisamimi/mahdisamimi.github.io/raw/main/assets/photo_2021-01-29_17-40-42.jpg)
+![Not Image of Me](https://github.com/mahdisamimi/mahdisamimi.github.io/raw/main/assets/photo_2021-01-29_17-40-42.jpg)
 
 You can use the [editor on GitHub](https://github.com/mahdisamimi/mahdisamimi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
