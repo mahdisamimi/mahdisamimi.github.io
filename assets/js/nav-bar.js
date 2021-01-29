@@ -8,4 +8,8 @@ window.onscroll = function() {myFunction()};
                 var scrolled = (winScroll-headerHeight) / (height-headerHeight) * 100;
                 document.getElementById("scroll-progress-bar").style.width = scrolled + "%";
           }
+          else{
+                document.getElementById("scroll-progress-bar").style.width = "0%"
+          }
+                        
         }
