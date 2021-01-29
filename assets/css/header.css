@@ -30,6 +30,7 @@ h2.project-tagline.desc {
     margin: 10px;
 }
 ul {
+    justify-content: center;
     box-shadow: 0 0 25px rgb(0 0 0 / 41%);
     height: 50px;
     background: #ffffff87;
@@ -38,7 +39,9 @@ ul {
     top: 0px;
     position: sticky;
     margin: 0;
+    margin: 0;
     padding: 0;
+    display: flex;
 }
 ul li {
     display: flex;
