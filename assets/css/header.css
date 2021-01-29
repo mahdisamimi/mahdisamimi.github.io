@@ -106,3 +106,19 @@ body::-webkit-scrollbar-thumb {
     background: #206db9;
     height: 100%;
 }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    text-align: center;
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+}
+
+.main-content h2 {
+    border-top: solid 1px #eff0f1;
+    margin-top: 3rem;
+    padding-top: 3rem;
+}
+
+.main-content :first-child {
+    padding-top: 0;
+    border-top: 0;
+}
