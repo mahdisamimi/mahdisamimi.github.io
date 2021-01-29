@@ -1,7 +1,7 @@
 window.onscroll = function() {myFunction()};
 
         function myFunction() {
-          var headerHeight = document.getElementsByTagName("HEADER")[0].offsetHeight;
+          var headerHeight = document.getElementsByTagName("HEADER")[0].clientHeight;
           var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
           var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
           var scrolled = (winScroll-headerHeight / height-headerHeight) * 100;
