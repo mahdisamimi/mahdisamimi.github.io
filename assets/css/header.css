@@ -53,14 +53,21 @@ ul li {
 
 ul a {
     vertical-align: middle;
-    margin: auto 0 auto 0;
+    margin: 0;
     text-decoration: none;
     font-size: large;
-    padding: 0 15px;
+    padding: 12px;
     font-family: inherit;
     text-align: center;
     position: relative;
 }
 ul.fixed {
     position:fixed
+}
+ul a:hover {
+    text-decoration: none;
+    color: black;
+    }
+ul li:hover {
+    background: #8080800f
 }
