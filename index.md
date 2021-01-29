@@ -2,7 +2,8 @@
 
 ![Image of Me](https://github.com/mahdisamimi/mahdisamimi.github.io/raw/main/assets/photo_2021-01-29_17-40-42.jpg)
 
-Hey! I'm Mehdi, Pylover from Broujerd, Iran. I've made this github page (almost with bare hands :grin:) to share my information and projects. Currently, I'm BSc. student in IUT, Isfahan, Iran working on AI approaches for mitigating cyber-physical threats.I'm also interested in 
+Hey! I'm Mehdi, Pylover from Broujerd, Iran. I've made this github page (almost with bare hands :grin:) to share my information and projects.
+Currently, I'm BSc. student in IUT, Isfahan, Iran working on AI approaches for mitigating cyber-physical threats.I'm also interested in 
   - Image Processing
   - AI Generative Approaches (GAN, VAE)
   - Natural Language Processing (NLP)
