@@ -130,5 +130,5 @@ Also, I'm still working on an image processing project. I'll publish it on githu
 
 **Graphics:** OpenCV, Adobe Premier
 
-<br> <br> <br> <br> 
+<br> <br> <br> <br> <br> <br> <br> <br>
 
