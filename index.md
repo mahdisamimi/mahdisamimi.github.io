@@ -35,8 +35,7 @@ If you're also working in this research fields or interested, Here is my contact
    
    **Last two-years GPA**:  3/37 ( GPA: 3/16 )
 
-<br> <br> <br> <br> <br>
-
+<br>
 ### Selected Courses
 
 
