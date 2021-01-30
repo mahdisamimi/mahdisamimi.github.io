@@ -21,7 +21,7 @@ If you're also working in this research fields or interested, Here is my contact
       <dd>@mehdi_samimi97</dd>
   </dl>
   <p>    test text</p>
-########################################################################################################################################################################  
+  
 
 
 
@@ -384,7 +384,6 @@ Email: <u>m</u><u>a</u><u>h</u><u>m</u><u>o</u><u>u</u><u>d</u><u>z</u><u>a</u><
 
 
 
-########################################################################################################################################################################
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
