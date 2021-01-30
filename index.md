@@ -85,4 +85,6 @@ Institute of Information and Communication Technology, Department of Electrical 
 
 ![ss-project]({{site.baseurl}}//assets/image.jpg)
 
-**Image Semantic Segmentation**
+[**Image Semantic Segmentation**](https://github.com/mahdisamimi/Semantic-Segmentation)
+
+A semantic segmentation project using PyClustering to detect and cluster object in a sample image
