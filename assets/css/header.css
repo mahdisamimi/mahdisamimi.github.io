@@ -118,10 +118,6 @@ body::-webkit-scrollbar-thumb {
     padding-top: 3rem;
 }
 
-.main-content :first-child {
-    padding-top: 0;
-    border-top: 0;
-}
 .main-content [alt="Image of Me"] {
     max-width: 40%;
     border-radius: 50%;
@@ -165,4 +161,7 @@ html {
 .main-content table {
     width: max-content;
     margin: auto;
+}
+body {
+    width: fit-content;
 }
