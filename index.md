@@ -90,7 +90,7 @@ Institute of Information and Communication Technology, Department of Electrical 
 A semantic segmentation project using PyClustering to detect and cluster object in a sample image.
 
 
-<br>
+<br> <br> <br>
 
 ![qtsql-project](https://github.com/mahdisamimi/qt-sql-example/raw/master/screenshot.png)
 
