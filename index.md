@@ -22,6 +22,7 @@ If you're also working in this research fields or interested, Here is my contact
   </dl>
   
   ## Education
+  
   **B.Sc. in Computer Engineering (2016 – 2021 (expected)) ,**
   
   Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran 
@@ -32,6 +33,3 @@ If you're also working in this research fields or interested, Here is my contact
    **Supervisor**: Dr. Mohammad Hossein Manshaei
    
    **Last two-years GPA**:  3/37 ( GPA: 3/16 )
-
-   
-   
