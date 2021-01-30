@@ -37,7 +37,6 @@ If you're also working in this research fields or interested, Here is my contact
 
 ### Selected Courses
 
----------------------------------------------------------------
 | Course                                      | Score         |
 |  :----------------------------------------: | :-----------: | 
 | Information Technology Fundamentals         | 4.0 / 4.0     |
