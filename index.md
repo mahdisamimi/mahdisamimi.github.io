@@ -22,9 +22,8 @@ If you're also working in this research fields or interested, Here is my contact
   </dl>
   
   
-  ## Education
-  
-  
+## Education
+
   **B.Sc. in Computer Engineering (2016 – 2021 (expected)) ,**
   
   Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran 
@@ -38,7 +37,7 @@ If you're also working in this research fields or interested, Here is my contact
 
 ## Selected Courses
 
-
+   :----------------------------------------:
 | Course                                      | Score         |
 |  :----------------------------------------: | :-----------: | 
 | Information Technology Fundamentals         | 4.0 / 4.0     |
