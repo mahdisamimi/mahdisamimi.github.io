@@ -94,6 +94,28 @@ A semantic segmentation project using PyClustering to detect and cluster object 
 
 ![qtsql-project](https://github.com/mahdisamimi/qt-sql-example/raw/master/screenshot.png)
 
-[**SQL Server Database Manager**](https://github.com/mahdisamimi/Semantic-Segmentation)
+[**SQL Server Database Manager**](https://github.com/mahdisamimi/qt-sql-example)
 
 A simple tool developed with Qt 5.9.1 for Win and Linux that can perform CRUD operation on SQL Server DBs.
+
+<br> <br> <br>
+
+[**Truck-Backer-Upper**](https://github.com/mahdisamimi/Truck-Backer-Upper)
+
+A project to lead a sample truck in a specific direction with SkFuzzy.
+
+<br> <br> <br>
+
+[**Hospital Management Website**](https://github.com/mahdisamimi/Hospital-Managment-System)
+
+Simple user-based website for hospital management with Django, HTML, CSS, JQeury.
+
+<br> <br> <br>
+
+**Librarian**
+
+A Library Management Win App with PyQt. (Currently not uploaded in github)
+
+
+<br> <br> <br>
+Also, I'm still working on an image processing project. I'll publish it on github as soon as they got finished.
