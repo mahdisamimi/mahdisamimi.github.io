@@ -87,5 +87,13 @@ Institute of Information and Communication Technology, Department of Electrical 
 
 [**Image Semantic Segmentation**](https://github.com/mahdisamimi/Semantic-Segmentation)
 
-A semantic segmentation project using PyClustering to detect and cluster object in a sample image
+A semantic segmentation project using PyClustering to detect and cluster object in a sample image.
 
+
+<br>
+
+![qtsql-project](https://github.com/mahdisamimi/qt-sql-example/raw/master/screenshot.png)
+
+[**SQL Server Database Manager**](https://github.com/mahdisamimi/Semantic-Segmentation)
+
+A simple tool developed with Qt 5.9.1 for Win and Linux that can perform CRUD operation on SQL Server DBs.
