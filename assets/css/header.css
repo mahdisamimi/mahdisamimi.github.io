@@ -163,5 +163,5 @@ html {
     margin: auto;
 }
 body {
-    width: fit-content;
+    min-width: fit-content;
 }
