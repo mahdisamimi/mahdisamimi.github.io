@@ -62,7 +62,7 @@ If you're also working in this research fields or interested, Here is my contact
 
 #### Teaching
 
-**Teaching Assistant in Basic Programming Workshop (Jan 2018 – June 2019 - 3 Semesters)**
+***Teaching Assistant in Basic Programming Workshop (Jan 2018 – June 2019 - 3 Semesters)***
 
 Department of Electrical and Computer Engineering,Isfahan University of Technology, Isfahan, Iran
 
@@ -70,14 +70,20 @@ Instructor: Dr. E. Mahmoud Zadeh
 
 #### Industry
 
-**Website Developer and Designer (Oct 2020 – Present)**
+***Website Developer and Designer (Oct 2020 – Present)***
 
 Iryk Pardazesh Shebro, Lorestan’s Science and Technology Park, Broujerd, Lorestan, Iran
 
 #### Internship
 
-**Software Engineer**
+***Software Engineer***
 
 Institute of Information and Communication Technology, Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran
 
 
+## Projects
+
+![ss project 1](https://github.com/mahdisamimi/Semantic-Segmentation/raw/master/sample1.jpg)
+![ss-project 2](https://github.com/mahdisamimi/Semantic-Segmentation/raw/master/goudarzi-samimi_edited.png)
+
+**Image Semantic Segmentation**
