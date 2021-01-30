@@ -25,12 +25,10 @@ If you're also working in this research fields or interested, Here is my contact
 
 
 
+##CV
 
-<div class="pos" id="_86:329" style="top:329;left:86">
-<span id="_20.4" style=" font-family:Times New Roman; font-size:20.4px; color:#2f5395">
-  Education
-</span>
-</div>
+###Education
+
 <div class="pos" id="_90:363" style="top:363;left:90">
 <span id="_15.0" style=" font-family:Times New Roman; font-size:15.0px; color:#000000">
 2016 – 2021 </span>
@@ -91,14 +89,13 @@ Interests</span>
 <span id="_14.6" style=" font-family:Times New Roman; font-size:14.6px; color:#000000">
 <li type="square"><span id="_15.8" style=" font-size:15.8px"> Cyber Security</span>
 </li></span></div>
-<div class="pos" id="_516:674" style="top:674;left:516">
+<div class="pos" id="_206:673" style="top:673;left:206">
 <span id="_14.6" style=" font-family:Times New Roman; font-size:14.6px; color:#000000">
-<span id="_15.8" style=" font-size:15.8px"> Networking</span></span>
-</div>
-<div class="pos" id="_206:704" style="top:704;left:206">
+<li type="square"><span id="_15.8" style=" font-size:15.8px"> Networking</span>
+</li></span></div><div class="pos" id="_206:673" style="top:673;left:206">
 <span id="_14.6" style=" font-family:Times New Roman; font-size:14.6px; color:#000000">
-<span id="_15.8" style=" font-size:15.8px"> Blockchain</span></span>
-</div>
+<li type="square"><span id="_15.8" style=" font-size:15.8px"> Blockchain</span>
+</li></span></div>
 <div class="pos" id="_516:703" style="top:703;left:516">
 <span id="_14.6" style=" font-family:Times New Roman; font-size:14.6px; color:#000000">
 <li type="square"><span id="_15.8" style=" font-size:15.8px"> Operating Systems</span>
