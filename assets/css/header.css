@@ -162,3 +162,7 @@ html {
     scroll-behavior: smooth;
     scroll-padding-top: 50px;
 }
+.main-content table {
+    width: max-content;
+    margin: auto;
+}
