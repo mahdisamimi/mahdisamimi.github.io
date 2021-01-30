@@ -83,7 +83,6 @@ Institute of Information and Communication Technology, Department of Electrical 
 
 ## Projects
 
-![ss project 1](https://github.com/mahdisamimi/Semantic-Segmentation/raw/master/sample1.jpg)
-![ss-project 2](https://github.com/mahdisamimi/Semantic-Segmentation/raw/master/goudarzi-samimi_edited.png)
+![ss-project]({{site.baseurl}}//assets/image.jpg)
 
 **Image Semantic Segmentation**
