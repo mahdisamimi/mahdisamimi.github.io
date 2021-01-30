@@ -21,7 +21,9 @@ If you're also working in this research fields or interested, Here is my contact
       <dd>@mehdi_samimi97</dd>
   </dl>
   
+  
   ## Education
+  
   
   **B.Sc. in Computer Engineering (2016 – 2021 (expected)) ,**
   
@@ -36,6 +38,9 @@ If you're also working in this research fields or interested, Here is my contact
 
 ## Selected Courses
 
+
+| Course                                      | Score         |
+|  :----------------------------------------: | :-----------: | 
 | Information Technology Fundamentals         | 4.0 / 4.0     |
 |  :----------------------------------------: | :-----------: | 
 | Network Security                            | 4.0 / 4.0     |
