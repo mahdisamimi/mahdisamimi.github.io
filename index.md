@@ -21,8 +21,8 @@ If you're also working in this research fields or interested, Here is my contact
       <dd>@mehdi_samimi97</dd>
   </dl>
   
-  
-## Education
+## Academic  
+### Education
 
   **B.Sc. in Computer Engineering (2016 – 2021 (expected)) ,**
   
@@ -35,9 +35,9 @@ If you're also working in this research fields or interested, Here is my contact
    
    **Last two-years GPA**:  3/37 ( GPA: 3/16 )
 
-## Selected Courses
+### Selected Courses
 
-   :----------------------------------------:
+---------------------------------------------------------------
 | Course                                      | Score         |
 |  :----------------------------------------: | :-----------: | 
 | Information Technology Fundamentals         | 4.0 / 4.0     |
