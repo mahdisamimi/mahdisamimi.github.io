@@ -33,3 +33,26 @@ If you're also working in this research fields or interested, Here is my contact
    **Supervisor**: Dr. Mohammad Hossein Manshaei
    
    **Last two-years GPA**:  3/37 ( GPA: 3/16 )
+
+## Selected Courses
+
+| Information Technology Fundamentals         | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: | 
+| Network Security                            | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: |
+| Principles of Computational Intelligence    | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: | 
+| Software Engineering                        | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: | 
+| Operating System Principles                 | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: |
+| Data Structures                             | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: |
+| Microprocessor                              | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: |
+| Discrete Mathematical Structures            | 4.0 / 4.0     |
+|  :----------------------------------------: | :-----------: |
+
+
+
+
